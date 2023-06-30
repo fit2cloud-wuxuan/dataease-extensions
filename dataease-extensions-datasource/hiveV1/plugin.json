@@ -1,0 +1,13 @@
+{
+  "name": "Apache Hive 1.x",
+  "free": 1,
+  "store": "thirdpart",
+  "cost": 0,
+  "category": "datasource",
+  "descript": "Apache Hive 1.x",
+  "version": "1.18.6",
+  "creator": "DATAEASE",
+  "moduleName": "hiveV1-backend",
+  "require": "1.18.6",
+  "dsType": "hiveV1"
+}
